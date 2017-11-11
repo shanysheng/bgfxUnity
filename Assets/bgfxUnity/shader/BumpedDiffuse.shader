@@ -1,4 +1,4 @@
-﻿Shader "Unity Shaders Book/Chapter 17/Bumped Diffuse" {
+﻿Shader "bgfx/BumpedDiffuse" {
 	Properties {
 		_Color ("Main Color", Color) = (1,1,1,1)
 		_MainTex ("Base (RGB)", 2D) = "white" {}

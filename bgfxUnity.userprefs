@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/bgfxUnity/shader/NormalExtrusion.shader">
+    <Files>
+      <File FileName="Assets/bgfxUnity/shader/BumpedDiffuse.shader" Line="16" Column="3" />
+      <File FileName="Assets/bgfxUnity/shader/NormalExtrusion.shader" Line="1" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
